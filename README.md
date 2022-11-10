@@ -1,2 +1,2 @@
-# MidtermAssignments_02
- 期中GitHub新開
+# MidtermAssignments
+ 期中作業
